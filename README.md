@@ -17,7 +17,7 @@ Ce projet a pour objectif de **déployer automatiquement une application CodeIgn
 * PHP 7.4 avec extensions nécessaires
 * MySQL avec création d’une base de données et d’un utilisateur dédié
 
-Le script Bash fourni automatise l’ensemble du processus, depuis la création du conteneur jusqu’au déploiement de l’application.
+Le script Bash fourni automatise (setup_auto.sh) l’ensemble du processus, depuis la création du conteneur jusqu’au déploiement de l’application.
 
 ---
 
